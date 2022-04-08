@@ -12,5 +12,14 @@ break;
 case 2:
 food="biscuit";
 break;
+case 9:
+food ="noodle";
+break;
+case 10:
+food="friedChicken";
+break;
+case 11:
+food="Cola";
+break;
 }
 Console.WriteLine("Random recommendation"+food +".");
